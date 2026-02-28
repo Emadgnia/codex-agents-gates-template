@@ -68,6 +68,14 @@ Run this repo-level smoke check:
 bash tests/smoke/validate_template.sh
 ```
 
+## Skills Library
+
+Installable skill assets are now maintained in a dedicated repository:
+
+- [codex-agent-skills](https://github.com/Emadgnia/codex-agent-skills)
+
+This template repository remains focused on agent governance, gates, and validation workflow design.
+
 ## License
 
 MIT. See [`LICENSE`](LICENSE).

@@ -8,6 +8,9 @@ List approved skills and when to use them.
 |---|---|---|---|---|
 | `{{skill_name}}` | `{{trigger}}` | `{{inputs}}` | `{{expected_output}}` | `{{constraints}}` |
 
+## Optional External Skills Source
+- Public skills distribution repository: [codex-agent-skills](https://github.com/Emadgnia/codex-agent-skills)
+
 ## Routing Rules
 - Use the minimal skill set that covers the task.
 - If multiple skills match, apply them in explicit order.
